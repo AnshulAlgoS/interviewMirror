@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "123456789000",
-    "firebase_url": "https://ai-interview-mirror-default-rtdb.firebaseio.com",
-    "project_id": "ai-interview-mirror",
-    "storage_bucket": "ai-interview-mirror.appspot.com"
+    "project_number": "************",
+    "firebase_url": "https://********************.firebaseio.com",
+    "project_id": "********************",
+    "storage_bucket": "********************.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123456789000:android:abcdef1234567890",
+        "mobilesdk_app_id": "1:************:android:********************",
         "android_client_info": {
-          "package_name": "com.interviewmirror.app"
+          "package_name": "********************"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123456789000-abcdefghijklmnop.apps.googleusercontent.com",
+          "client_id": "************-********************.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDummyKeyForPlaceholder123456789"
+          "current_key": "******************************"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "123456789000-abcdefghijklmnop.apps.googleusercontent.com",
+              "client_id": "************-********************.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -38,3 +38,4 @@
   ],
   "configuration_version": "1"
 }
+
